@@ -5,7 +5,7 @@ Output: the txt files of the audios
 
 ## Step 1
 Crawl the data from [Broadcastify](https://github.com/ChiShengChen/broadcastify_mp3_crawler).
-> python firefox_craw_data_v3.py
+> python firefox_craw_data_v3_.py
 
 ## Step 2
 Pre-process the audio to filter the non-silent part.
